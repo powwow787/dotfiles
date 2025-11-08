@@ -1,0 +1,1 @@
+/home/powwow/.config/home-manager/home.nix
